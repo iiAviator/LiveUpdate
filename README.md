@@ -7,3 +7,6 @@ Currenlty using a random number generator to generate fake data, which is then s
 - Websockets
 - Python
 - JavaScript
+
+## Demo:
+![](demo.gif)
