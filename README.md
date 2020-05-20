@@ -5,8 +5,8 @@ Currently using a random number generator to generate fake data, which is then s
 
 ## Technologies Used:
 - Websockets
-- Python
-- JavaScript
+- Python *(Server)
+- JavaScript (Plotly.js) *(Client)
 
 ## Demo:
 ![](demo.gif)
